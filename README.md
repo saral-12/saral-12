@@ -11,17 +11,13 @@
 <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/saraljain1205/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=8B5CF6" />
 </p>
 
 ---
@@ -76,7 +72,13 @@ My goal is to combine strong software engineering principles with modern AI tech
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Additional Tools**
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+**Additional Skills**
 
 - NumPy
 - Pandas
@@ -84,8 +86,8 @@ My goal is to combine strong software engineering principles with modern AI tech
 - Keras
 - NLP
 - Statistics
-- Data Modeling
 - Data Cleaning
+- Data Modeling
 
 ---
 
@@ -106,73 +108,115 @@ My goal is to combine strong software engineering principles with modern AI tech
 
 # Featured Projects
 
-## GestureSpeak – Sign Language Communication Platform
+<details>
+<summary><b>GestureSpeak – Sign Language Communication Platform</b></summary>
 
-### Tech Stack
+### Description
 
-Python • OpenCV • Flask • Computer Vision • Machine Learning
+An AI-powered communication platform designed to help the deaf and hard-of-hearing community communicate effectively using real-time sign language recognition.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, OpenCV, Flask, Machine Learning |
+| Scale | Real-Time Video Processing |
+| Performance | Optimized Gesture Detection |
+| Security | Secure Backend Integration |
+| Impact | Accessibility Enhancement |
+| Repository | Add Repository Link |
 
 ### Highlights
 
 - Real-time hand gesture recognition
-- Sign language interpretation system
-- Accessibility-focused solution
+- Computer vision-based interpretation
+- Text and speech conversion
 - Full-stack implementation
-- AI-powered communication platform
+- Accessibility-focused design
 
----
+</details>
 
-## Hypertension Classification using PPG Signals
+<details>
+<summary><b>Hypertension Classification using PPG Signals</b></summary>
 
-### Tech Stack
+### Description
 
-Python • Machine Learning • Signal Processing
+Machine learning system developed for hypertension detection using physiological PPG signals and biomedical data analysis.
 
-### Highlights
-
-- Biomedical signal analysis
-- PPG signal preprocessing
-- Feature extraction pipeline
-- Multi-class hypertension classification
-- Machine learning optimization
-
----
-
-## Titanic Survival Prediction
-
-### Tech Stack
-
-Python • Scikit-Learn • Pandas
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, Machine Learning |
+| Scale | Biomedical Dataset |
+| Performance | High Classification Accuracy |
+| Security | Data Validation Pipeline |
+| Impact | Healthcare Analytics |
+| Repository | Add Repository Link |
 
 ### Highlights
 
-- Data preprocessing
+- Signal preprocessing
+- Feature extraction
+- Multi-class classification
+- Model optimization
+- Healthcare AI application
+
+</details>
+
+<details>
+<summary><b>Titanic Survival Prediction</b></summary>
+
+### Description
+
+Predictive machine learning solution developed using historical Titanic passenger data.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | Python, Pandas, Scikit-Learn |
+| Scale | Structured Dataset |
+| Performance | High Predictive Accuracy |
+| Security | Data Cleaning & Validation |
+| Impact | Predictive Analytics |
+| Repository | Add Repository Link |
+
+### Highlights
+
 - Feature engineering
 - Logistic Regression
 - Random Forest
-- Model evaluation and tuning
+- Hyperparameter tuning
+- Model comparison
 
----
+</details>
 
-## Bakery Shop Website
+<details>
+<summary><b>Bakery Shop Website</b></summary>
 
-### Tech Stack
+### Description
 
-HTML • CSS • JavaScript
+Responsive bakery website built with modern frontend technologies and user-focused design principles.
+
+| Category | Details |
+|-----------|-----------|
+| Stack | HTML, CSS, JavaScript |
+| Scale | Multi-Page Website |
+| Performance | Responsive Design |
+| Security | Standard Web Security |
+| Impact | Enhanced User Experience |
+| Repository | Add Repository Link |
 
 ### Highlights
 
-- Responsive design
+- Responsive layout
 - Interactive UI
-- Mobile-first approach
-- Performance optimization
+- Mobile optimization
 - Cross-browser compatibility
+- Performance-focused development
+
+</details>
 
 ---
 
 # Education
 
-### Shri Shankaracharya Technical Campus
+## Shri Shankaracharya Technical Campus
 
 **Bachelor of Technology (Computer Science & Engineering)**
 
@@ -180,11 +224,11 @@ HTML • CSS • JavaScript
 
 ---
 
-### Krishna Public School
+## Krishna Public School
 
-Higher Secondary Education
+**Higher Secondary Education**
 
-Completed: 2023
+Completed in 2023
 
 ---
 
@@ -198,34 +242,10 @@ Topics Covered:
 
 - Machine Learning
 - Deep Learning
-- Python
+- Python Programming
 - Data Analysis
-- AI Applications
 - Model Development
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
-</a>
-
-</p>
+- AI Applications
 
 ---
 
@@ -233,35 +253,15 @@ Topics Covered:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -287,10 +287,10 @@ Exploring:
   - AI Agents
 
 Open To:
-  - Internships
-  - Research Work
-  - Open Source
-  - Collaborations
+  - Software Engineering Internships
+  - AI/ML Internships
+  - Research Opportunities
+  - Open Source Collaborations
 ```
 
 ---
@@ -303,11 +303,11 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/saraljain1205/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
